@@ -16,8 +16,14 @@ Currently working with **React** <i class="fab fa-react"></i> and exploring all 
 | React         | Intermediate |
 | JavaScript    | Intermediate |¡
 
+## Interests 🌱
+- Learning about UI/UX design
+- Contributing to projects
+- Photography
+
 ## Featured Projects 🚀  
 - [zelda](https://github.com/Mariano-Ariel/zelda): A little Zelda game made in JavaScript just for fun. Dive into a retro-style adventure!
 
 ## Connect with me
+Feel free to reach out!
 - [LinkedIn](https://www.linkedin.com/in/mariano-rodriguez-dev)
