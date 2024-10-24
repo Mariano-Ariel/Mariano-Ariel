@@ -11,7 +11,7 @@ Currently working with **React** <i class="fab fa-react"></i> and exploring all 
 
 | Technology    | Level       |
 |---------------|-------------|
-| HTML          | Expert      |
+| HTML          | Advanced |
 | CSS           | Advanced |
 | React         | Intermediate |
 | JavaScript    | Intermediate |¡
