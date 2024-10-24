@@ -7,6 +7,7 @@ Currently working with **React** <i class="fab fa-react"></i> and exploring all 
 ![React](https://img.shields.io/badge/React-React%20js-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/HTML-HTML%205-orange)
+![CSS](https://img.shields.io/badge/CSS-CSS%203-blue)
 
 ## Featured Projects 🚀  
 - [zelda](https://github.com/Mariano-Ariel/zelda): A little Zelda game made in JavaScript just for fun. Dive into a retro-style adventure!
