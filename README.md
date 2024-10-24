@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm **Mariano** <i class="fas fa-laptop-code"></i>, originally a photographer now a developer by accident, based in **Mendoza, Argentina** ☕.
+I'm **Mariano** ☕, originally a photographer now a developer by accident, based in **Mendoza, Argentina**.
 Currently working with **React** <i class="fab fa-react"></i> and exploring all sorts of new front-end technologies. I'm also actively building front-end projects to upload to my GitHub repository.
 
 ## Skills 💻
@@ -8,6 +8,13 @@ Currently working with **React** <i class="fab fa-react"></i> and exploring all 
 ![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)
 ![HTML](https://img.shields.io/badge/HTML-HTML%205-orange)
 ![CSS](https://img.shields.io/badge/CSS-CSS%203-blue)
+
+| Technology    | Level       |
+|---------------|-------------|
+| React         | Intermediate |
+| JavaScript    | Advanced    |
+| HTML          | Expert      |
+| CSS           | Intermediate |¡
 
 ## Featured Projects 🚀  
 - [zelda](https://github.com/Mariano-Ariel/zelda): A little Zelda game made in JavaScript just for fun. Dive into a retro-style adventure!
