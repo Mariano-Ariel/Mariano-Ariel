@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm **[your name]**, originally a photographer now a developer by accident.
+I'm **Mariano**, originally a photographer now a developer by accident.
 Currently working with **React** and exploring all sorts of new front end stuff.
 
 ## Featured Projects 🚀
