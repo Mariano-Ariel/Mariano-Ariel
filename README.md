@@ -11,10 +11,10 @@ Currently working with **React** <i class="fab fa-react"></i> and exploring all 
 
 | Technology    | Level       |
 |---------------|-------------|
-| React         | Intermediate |
-| JavaScript    | Advanced    |
 | HTML          | Expert      |
-| CSS           | Intermediate |¡
+| CSS           | Advanced |
+| React         | Intermediate |
+| JavaScript    | Intermediate |¡
 
 ## Featured Projects 🚀  
 - [zelda](https://github.com/Mariano-Ariel/zelda): A little Zelda game made in JavaScript just for fun. Dive into a retro-style adventure!
