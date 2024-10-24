@@ -24,6 +24,11 @@ Currently working with **React** <i class="fab fa-react"></i> and exploring all 
 ## Featured Projects 🚀  
 - [zelda](https://github.com/Mariano-Ariel/zelda): A little Zelda game made in JavaScript just for fun. Dive into a retro-style adventure!
 
+## Project Status 🚦
+- [mini-shop](https://github.com/Mariano-Ariel/mini-shop): In progress - Adding some more features and improving design.
+- [landing-page-template](https://github.com/Mariano-Ariel/landing-page-template): In progress
+- [zelda](https://github.com/Mariano-Ariel/zelda): Completed!
+
 ## Connect with me
 Feel free to reach out!
 - [LinkedIn](https://www.linkedin.com/in/mariano-rodriguez-dev)
